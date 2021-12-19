@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  font-size: 20px;
+  --text-primary: #eee;
+  --text-secondary: #ececec;
+  --bg-primary: #111827;
+  --bg-secondary: #262a33;
+  --transition-speed: 600ms;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  /* height: 100vh; */
+}
