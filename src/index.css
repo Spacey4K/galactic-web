@@ -1,26 +1,35 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import url(//db.onlinewebfonts.com/c/50cd2aad9c8f35800bb6beac3ad42f16?family=Azonix);
+
 :root {
-  font-size: 20px;
-  --text-primary: #eee;
-  --text-secondary: #ececec;
-  --bg-primary: #111827;
-  --bg-secondary: #262a33;
-  --transition-speed: 600ms;
+    font-size: 20px;
+    --text-primary: #eee;
+    --text-secondary: #ececec;
+    --bg-primary: #111827;
+    --bg-secondary: #262a33;
+    
 }
 
 *,
 *::before,
 *::after {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: var(--bg-primary);
-  color: var(--text-primary);
-  /* height: 100vh; */
+    font-family: Helvetica, sans-serif;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    /* height: 100vh; */
+}
+
+@layer components {
+    .font-azonix {
+        font-family: "Azonix";
+    }
 }

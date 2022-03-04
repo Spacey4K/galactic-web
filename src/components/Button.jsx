@@ -1,7 +1,11 @@
-function Button({ label, url, disabled }) {
+function Button({ label, url, type }) {
+    const border = "border-2 border-sky-500 hover:bg-brand"
+    const normal = "bg-brand hover:bg-sky-600"
+
     return (
         <a
-            className="min-w-1 bg-gradient-to-tr from-purple-600 to-blue-500 hover:to-blue-600 rounded-lg text-md py-2 shadow-md shadow-purple-500/50"
+            /* className={`py-2 transition duration-500 bg-brand hover:bg-sky-500 rounded-lg text-md shadow-md shadow-sky-500/50`} */
+            className={`py-2 transition duration-500 rounded-lg text-md shadow-md shadow-sky-500/50 ${type === 'primary' ? normal : border} border-sky-500`}
             href={url}
         >
             {label}

@@ -13,7 +13,8 @@
     },
     "scripts": {
         "start": "react-scripts start",
-        "build": "react-scripts build && gh-pages -d build"
+        "build": "react-scripts build && gh-pages -d build",
+        "publish": "gh-pages -d build -r https://github.com/Spacey4K/galactic-web"
     },
     "eslintConfig": {
         "extends": [

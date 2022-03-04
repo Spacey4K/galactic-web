@@ -5,9 +5,9 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                primary: "#2eaeff",
-                transparent: "rgba(0, 0, 0, .5)",
-            }
+                brand: "#2eaeff",
+                transparent: "rgba(0, 0, 0, .3)",
+            },
         },
     },
     plugins: [],
