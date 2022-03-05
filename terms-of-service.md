@@ -3,7 +3,7 @@ Modified: March 4, 2022.
 
 ## AGREEMENT TO TERMS
 
-These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you") and Galactic ("Company," "we," "us," or "our"), concerning your access to and use of the [galactic-bot.com](https://galactic-bot.com) website as well as the Galactic bot.You agree that by accessing the Site, you have read, understood, and agreed to be bound by all of these Terms of Use.
+These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you") and Galactic ("Company," "we," "us," or "our"), concerning your access to and use of the [galactic-bot.com](https://galactic-bot.com) website as well as the Galactic bot. You agree that by accessing the Site, you have read, understood, and agreed to be bound by all of these Terms of Use.
 
 
 ## INTELLECTUAL PROPERTY RIGHTS
@@ -59,7 +59,7 @@ We allow advertisers to display their advertisements and other information in ce
 ## SITE MANAGEMENT
 
 We reserve the right, but not the obligation, to:
-- Monitor the Site for violations of these Terms of Use; (2) 
+- Monitor the Site for violations of these Terms of Use
 - Take appropriate legal action against anyone who, in our sole discretion, violates the law or these Terms of Use, including without limitation, reporting such user to law enforcement authorities
 - Otherwise manage the Site in a manner designed to protect our rights and property and to facilitate the proper functioning of the Site.
 
@@ -81,31 +81,6 @@ If we terminate or suspend your account for any reason, you are prohibited from 
 We reserve the right to change, modify, or remove the contents of the Site at any time or for any reason at our sole discretion without notice. However, we have no obligation to update any information on our Site. We also reserve the right to modify or discontinue all or part of the Site without notice at any time. We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Site.
 
 We cannot guarantee the Site will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the Site, resulting in interruptions, delays, or errors. We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the Site at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Site during any downtime or discontinuance of the Site. Nothing in these Terms of Use will be construed to obligate us to maintain and support the Site or to supply any corrections, updates, or releases in connection therewith.
-
-
-## GOVERNING LAW 
-
-These Terms shall be governed by and defined following the laws of __________. Galactic and yourself irrevocably consent that the courts of __________ shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these terms.
-
-
-## DISPUTE RESOLUTION
-
-Informal Negotiations
-
-To expedite resolution and control the cost of any dispute, controversy, or claim related to these Terms of Use (each "Dispute" and collectively, the "Disputes") brought by either you or us (individually, a "Party" and collectively, the "Parties"), the Parties agree to first attempt to negotiate any Dispute (except those Disputes expressly provided below) informally for at least __________ days before initiating arbitration. Such informal negotiations commence upon written notice from one Party to the other Party.
-
-Binding Arbitration
-
-   
-Any dispute arising out of or in connection with this contract, including any question regarding its existence, validity, or termination, shall be referred to and finally resolved by the International Commercial Arbitration Court under the European Arbitration Chamber (Belgium, Brussels, Avenue Louise, 146) according to the Rules of this ICAC, which, as a result of referring to it, is considered as the part of this clause. The number of arbitrators shall be __________. The seat, or legal place, of arbitration shall be __________. The language of the proceedings shall be __________. The governing law of the contract shall be the substantive law of __________.
-
-Restrictions
-
-The Parties agree that any arbitration shall be limited to the Dispute between the Parties individually. To the full extent permitted by law, (a) no arbitration shall be joined with any other proceeding; (b) there is no right or authority for any Dispute to be arbitrated on a class-action basis or to utilize class action procedures; and (c) there is no right or authority for any Dispute to be brought in a purported representative capacity on behalf of the general public or any other persons.
-
-Exceptions to Informal Negotiations and Arbitration
-
-The Parties agree that the following Disputes are not subject to the above provisions concerning informal negotiations and binding arbitration: (a) any Disputes seeking to enforce or protect, or concerning the validity of, any of the intellectual property rights of a Party; (b) any Dispute related to, or arising from, allegations of theft, piracy, invasion of privacy, or unauthorized use; and (c) any claim for injunctive relief. If this provision is found to be illegal or unenforceable, then neither Party will elect to arbitrate any Dispute falling within that portion of this provision found to be illegal or unenforceable and such Dispute shall be decided by a court of competent jurisdiction within the courts listed for jurisdiction above, and the Parties agree to submit to the personal jurisdiction of that court.
 
 
 ## CORRECTIONS

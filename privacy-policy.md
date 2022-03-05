@@ -11,7 +11,8 @@ This page is used to inform website visitors & bot users regarding our policies 
 If you choose to use our Service, then you agree with this policy. The information that is collected is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 ## Message contents
-If you have a bad word filter setup message texts will be scanned to make sure they don't contain those words. Messages are not saved or exported.
+If you have a bad word filter setup message texts will be scanned to make sure they don't contain those words.  
+Messages are not saved or exported.
 
 ## Direct Messages
 DM messages between you and the bot are monitored.  
