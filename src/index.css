@@ -8,7 +8,8 @@
     --text-secondary: #ececec;
     --bg-primary: #111827;
     --bg-secondary: #262a33;
-    
+    --brand: #2eaeff;
+    --transparent: rgba(0, 0, 0, .3);
 }
 
 *,
@@ -25,5 +26,4 @@ body {
     color: var(--text-primary);
 }
 
-@layer components {
-}
+@layer components {}

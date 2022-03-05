@@ -5,8 +5,12 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                brand: "#2eaeff",
-                transparent: "rgba(0, 0, 0, .3)",
+                "text-primary": "var(--text-primary)",
+                "text-secondary": "var(--text-secondary)",
+                "bg-primary": "var(--bg-primary)",
+                "bg-secondary": "var(--bg-secondary)",
+                "brand": "var(--brand)",
+                "transparent": "var(--transparent)",
             },
         },
     },
