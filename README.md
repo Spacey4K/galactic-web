@@ -1,4 +1,5 @@
 # Galactic web
 
-Project[1] - Galactic bot dashboard / website  
+Project[0] - Galactic bot website 
+Dashboard coming soon™
 [galactic-bot.com](https://galactic-bot.com)
