@@ -14,7 +14,7 @@ function Header() {
                 title="Activities"
                 description={
                     <>
-                        They are fun minigames that you can play with your friends in voice channels. Currently you can play chess, checkers, YouTube Together, Poker Night and other fun games. To start one you must first join a voice channel then use the <Command cmd="=activity yt" /> command.  (Please note that they are still in beta & only work on PC
+                        They are fun minigames that you can play with your friends in voice channels. Currently you can play chess, checkers, YouTube Together, Poker Night and other fun games. To start one you must first join a voice channel then use the <Command cmd="=activity yt" /> command.  (Please note that they are still in beta & only work on PC)
                     </>
                 }
                 img={Activities}

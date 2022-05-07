@@ -1,10 +1,10 @@
 # Privacy Policy
-Modified: March 4, 2022.  
+Modified: May 8, 2022.  
 Galactic operates the [galactic-bot.com](https://galactic-bot.com) website, which provides the Galactic Bot.
 
 ## Summary
 **Your data isn't distributed to any 3rd party services**  
-**You can remove all data by removing the bot from your server**  
+**You can delete all of your data by removing the bot from your server**  
 
 This page is used to inform website visitors & bot users regarding our policies with the collection, use, and disclosure of Personal Information.
 

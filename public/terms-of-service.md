@@ -1,5 +1,5 @@
 # Terms Of Service
-Modified: March 4, 2022.  
+Modified: May 8, 2022.  
 
 ## AGREEMENT TO TERMS
 
@@ -17,18 +17,18 @@ By using the Site, you represent and warrant that, you:
 - Agree to comply with these Terms of Use
 - Will not access the Site through automated or non-human means, whether through a bot, script, or otherwise
 - Will not use the Site for any illegal or unauthorized purpose
-- will not violate any applicable law or regulation with your use of the Site
+- Will not violate any applicable law or regulation with your use of the Site
 
 
 ## PROHIBITED ACTIVITIES
 
-You may not access or use the Site for any purpose other than that for which we make the Site available.  
-The Site may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
+The Site or Bot may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
 
-As a user of the Site, you agree not to:
-- Systematically retrieve data or other content from the Site to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
+As a user of the Site and Bot, you agree not to:
+- Intentionally crash the bot
+- Exploit any bugs
 - Trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords.
-- Circumvent, disable, or otherwise interfere with security-related features of the Site, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Site and/or the Content contained therein.
+- Circumvent, disable, or otherwise interfere with security-related features, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Site and/or the Content contained therein.
 - Disparage, tarnish, or otherwise harm, in our opinion, us and/or the Site.
 - Use any information obtained from the Site in order to harass, abuse, or harm another person.
 - Make improper use of our support services or submit false reports of abuse or misconduct.
